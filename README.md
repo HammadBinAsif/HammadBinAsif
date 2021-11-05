@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HammadBinAsif
-- 👀 I’m interested in ...
+- 👀 I’m interested in how people work.
 - 🌱 I’m currently learning static and machine learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with passionate people and organizations for greater good.
 - 📫 How to reach me via email 
 
 <!---
